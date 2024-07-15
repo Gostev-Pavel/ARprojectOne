@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "aframe": "^1.6.0",
     "vite": "^5.3.3"
   }
 }
